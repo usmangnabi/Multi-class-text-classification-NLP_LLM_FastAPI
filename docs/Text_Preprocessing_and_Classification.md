@@ -2,15 +2,7 @@
 
 ### An NLP and LLM Application with FastAPI: Project Report
 
-| | |
-|---|---|
-| **Author** | Your Name |
-| **Mentor** | Mentor Name |
-| **Date** | DD Month YYYY |
-| **Dataset** | BBC News (Kaggle) |
-| **LLM provider** | Groq (`openai/gpt-oss-20b`) |
 
----
 
 ## Contents
 
